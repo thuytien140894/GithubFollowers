@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ddc963eded16196fad389a22dc14c7ec411b35bee35d03cb7b5ac400aad06e42"
+build_start_time: [1699244859, 938178062]
+build_end_time: [1699244861, 552592039]
+inputs:
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/AppDelegate.swift": [1699211821, 6400823]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/DataManagers/Connector.swift": [1699214405, 940499305]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/DataManagers/GithubRemoteDataManager.swift": [1699221129, 727652549]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/GithubFollowerProvider.swift": [1699244821, 820721626]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/Models/Follower.swift": [1699244821, 684126377]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/SceneDelegate.swift": [1699213390, 818392276]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/Views/FollowerCell.swift": [1699244632, 22891283]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/Views/FollowerListViewController.swift": [1699244859, 686428546]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/Views/GithubTabBarController.swift": [1699213879, 316327571]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/Views/SearchViewController.swift": [1699215669, 468693256]

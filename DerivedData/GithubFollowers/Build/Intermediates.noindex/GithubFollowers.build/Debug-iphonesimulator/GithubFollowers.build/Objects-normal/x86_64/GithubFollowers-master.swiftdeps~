@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ddc963eded16196fad389a22dc14c7ec411b35bee35d03cb7b5ac400aad06e42"
+build_start_time: [1699211855, 807185173]
+build_end_time: [1699211855, 886332988]
+inputs:
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/AppDelegate.swift": !private [1699211821, 6400823]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/SceneDelegate.swift": !private [1699211821, 11409282]
+  "/Users/tienho/Desktop/GithubFollowers/GithubFollowers/ViewController.swift": !private [1699211821, 14908790]

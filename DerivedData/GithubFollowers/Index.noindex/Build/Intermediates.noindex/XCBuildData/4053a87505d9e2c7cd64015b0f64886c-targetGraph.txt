@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+GithubFollowers in GithubFollowers, no dependencies
+GithubFollowers in GithubFollowers, no dependencies

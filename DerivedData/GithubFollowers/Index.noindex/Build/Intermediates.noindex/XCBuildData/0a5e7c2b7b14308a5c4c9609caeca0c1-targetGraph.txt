@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+GithubFollowers in GithubFollowers, no dependencies
+GithubFollowers in GithubFollowers, no dependencies
+GithubFollowersTests in GithubFollowers, depends on:
+GithubFollowers in GithubFollowers (explicit)
+GithubFollowersTests in GithubFollowers, depends on:
+GithubFollowers in GithubFollowers (explicit)
+GithubFollowersTests in GithubFollowers, no dependencies
+GithubFollowersUITests in GithubFollowers, depends on:
+GithubFollowers in GithubFollowers (explicit)
+GithubFollowersUITests in GithubFollowers, depends on:
+GithubFollowers in GithubFollowers (explicit)
+GithubFollowersUITests in GithubFollowers, no dependencies
